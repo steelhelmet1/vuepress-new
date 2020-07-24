@@ -1,6 +1,6 @@
 ---
 sidebar: auto
-title: Markdown examples
+title: Markdown example
 ---
 # Markdown examples
 Edit on 30.04.2018 with NetlifyCMS
